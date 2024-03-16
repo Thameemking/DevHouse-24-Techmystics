@@ -1,4 +1,6 @@
+**********************************************************
 Empowering Paralysis with Eye-Controlled Technology
+**********************************************************
 
 This project implements a virtual keyboard using eye gaze control. Users can interact with the keyboard and type text by blinking their eyes to select letters. The application also includes functionality to switch between left and right keyboards using eye gaze.
 
